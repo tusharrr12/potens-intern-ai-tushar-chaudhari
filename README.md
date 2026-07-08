@@ -139,11 +139,13 @@ A heuristic confidence score is computed from retrieval similarity before respon
 Python 3.11+ recommended.
 
 ```bash
-git clone https://github.com/<your-username>/potens-intern-ai-yourname.git
-cd potens-intern-ai-yourname
+git clone https://github.com/tusharrr12/potens-intern-ai-tushar-chaudhari.git
+cd potens-intern-ai-tushar-chaudhari
 
 python -m venv .venv
-.venv\Scripts\activate        # Windows
+
+# Windows
+.venv\Scripts\activate
 
 pip install -r requirements.txt
 ```
